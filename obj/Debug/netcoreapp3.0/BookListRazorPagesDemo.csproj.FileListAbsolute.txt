@@ -413,3 +413,4 @@ D:\Aliya\Projects\.NetCore\BookListRazorPagesDemo\BookListRazorPagesDemo\obj\Deb
 D:\Aliya\Projects\.NetCore\BookListRazorPagesDemo\BookListRazorPagesDemo\obj\Debug\netcoreapp3.0\Razor\Pages\BookList\Index.cshtml.g.cs
 D:\Aliya\Projects\.NetCore\BookListRazorPagesDemo\BookListRazorPagesDemo\obj\Debug\netcoreapp3.0\Razor\Pages\BookList\Create.cshtml.g.cs
 D:\Aliya\Projects\.NetCore\BookListRazorPagesDemo\BookListRazorPagesDemo\obj\Debug\netcoreapp3.0\Razor\Pages\BookList\Edit.cshtml.g.cs
+D:\Aliya\Projects\.NetCore\BookListRazorPagesDemo\BookListRazorPagesDemo\obj\Debug\netcoreapp3.0\Razor\Pages\BookList\Upsert.cshtml.g.cs
